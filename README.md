@@ -1,4 +1,4 @@
-# Departmental-Budget-Analysis-Dashboard
+# Department-Budget-Analysis-Dashboard
 
 Designed an interactive and visually compelling dashboard in Power BI to analyze departmental performance, project allocations, and capital utilization across Engineering, Marketing, Sales, HR, and IT. The dashboard integrates data from multiple tables, enhanced using SQL, to offer a unified view of employee assignments, project budgets, and departmental finances.
 
